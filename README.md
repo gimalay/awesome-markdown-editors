@@ -199,6 +199,11 @@ Ghostwriter also allows to export to different formats, using pandoc or sundown:
 
 The interface is translated to many languages, as spanish, german or portuguese.
 
+[**IWE**](https://iwe.md) (FREE, open source)
+
+Markdown PKM for your favorite text editor. Local-first knowledge management with LSP integration for VS Code, Neovim, Zed, and Helix. Features wiki-style links, backlinks, graph transformations, and AI commands. Written in Rust.
+[The code resides on GitHub](https://github.com/iwe-org/iwe)
+
 [**Znote**](https://znote.io) (FREE)
 
 Znote is a free, elegant program meant to help you write beautifully organized Markdown documents. You can organize your texts, notes, and files even better, using the simplistic left-side widget organizer for smoothly navigating different files.
